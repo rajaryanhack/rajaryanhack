@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajaryanhack
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Front End Development
-- 💞️ I’m looking to collaborate on Reacr.js projects
+- 💞️ I’m looking to collaborate on React.js projects
 - 📫 How to reach me rajaryan0690@gmail.com
 
 <!---
